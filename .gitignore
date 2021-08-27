@@ -452,3 +452,5 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+/SideBySide.WebApiWeather/SideBySide.WebApiWeather.json
+/SideBySide.MinimalWeather/SideBySide.MinimalWeather.json
